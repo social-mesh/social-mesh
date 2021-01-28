@@ -1,6 +1,6 @@
 # Social Mesh
 
-![](images/fsm_flag1.png)
+![](images/fsm_icon1.png)
 
 <strong style="font-size: 1.8em;">Social Mesh</strong> is a system of platform cooperativism, in which:
 
